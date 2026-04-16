@@ -1,0 +1,44 @@
+name: Fetch TBR Session Results
+
+on:
+  schedule:
+    # Every Wednesday at 19:30 UTC — 30 min after the CIRA TBR session opens
+    - cron: '30 19 * * 3'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run — fetch & analyze but do not commit'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch, archive, and analyze TBR session
+        run: python scripts/analyze.py
+
+      - name: Commit and push results
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          SESSION_DATE=$(date -u '+%Y-%m-%d')
+          git config user.name  "TBR Bot"
+          git config user.email "tbr-bot@users.noreply.github.com"
+          git add data/ tally.json README.md
+          git diff --staged --quiet \
+            && echo "Nothing changed — session may already be recorded." \
+            || git commit -m "data: TBR session ${SESSION_DATE}"
+          git push
