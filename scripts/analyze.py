@@ -18,6 +18,8 @@ from collections import defaultdict
 from urllib.request import urlopen
 from urllib.error import URLError
 
+from charts import generate_all_charts
+
 API_URL = "https://api.ca.fury.ca/api/tbr/lastSessionResults"
 ROOT = Path(__file__).parent.parent
 DATA_DIR = ROOT / "data"
@@ -359,19 +361,44 @@ def _last_session_detail(s: dict) -> str:
     return "\n".join(lines)
 
 
-def generate_readme(tally: dict) -> str:
+def _chart_img(charts: dict, key: str, alt: str = "") -> str:
+    """Return a markdown image tag if the chart exists, else empty string."""
+    fname = charts.get(key, "")
+    if not fname:
+        return ""
+    return f"\n![{alt}](charts/{fname})\n"
+
+
+def generate_readme(tally: dict, charts: dict | None = None) -> str:
+    if charts is None:
+        charts = {}
     generated   = tally.get("generated_at", "")[:10]
     n_sessions  = tally.get("total_sessions", 0)
     sessions    = tally.get("sessions", {})
     last_s      = list(sessions.values())[-1] if sessions else {}
 
-    by_year_sections = ""
-    for yr, agg in sorted(tally.get("by_year", {}).items()):
-        by_year_sections += f"\n### {yr}\n\n{_agg_section(agg)}\n"
+    # ── Build trend charts section ──────────────────────────────────────────
+    trend_section = ""
+    trend_charts = [
+        ("trend_domains_per_session", "Domains Per Session Trend"),
+        ("trend_market_share", "Market Share Trend"),
+        ("trend_hhi", "HHI Trend"),
+        ("trend_latency_by_registrar", "Latency Trend by Registrar"),
+    ]
+    rendered_trends = [_chart_img(charts, k, a) for k, a in trend_charts if k in charts]
+    if rendered_trends:
+        trend_section = "\n---\n\n## Trends\n" + "\n".join(rendered_trends)
 
-    by_month_sections = ""
+    # ── Build per-year chart refs ────────────────────────────────────────────
+    by_year_sections_out = ""
+    for yr, agg in sorted(tally.get("by_year", {}).items()):
+        by_year_sections_out += f"\n### {yr}\n\n{_agg_section(agg)}\n"
+        by_year_sections_out += _chart_img(charts, f"year_{yr}_market_share",
+                                           f"Market share {yr}")
+
+    by_month_sections_out = ""
     for ym, agg in sorted(tally.get("by_month", {}).items()):
-        by_month_sections += f"\n#### {ym}\n\n{_agg_section(agg)}\n"
+        by_month_sections_out += f"\n#### {ym}\n\n{_agg_section(agg)}\n"
 
     return f"""\
 # CIRA TBR Tracker
@@ -396,6 +423,10 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 ## Last Session
 
 {_last_session_detail(last_s)}
+{_chart_img(charts, "last_session_market_share", "Last Session Market Share")}
+{_chart_img(charts, "last_session_latency_histogram", "Last Session Latency Distribution")}
+{_chart_img(charts, "last_session_latency_by_registrar", "Last Session Latency by Registrar")}
+{_chart_img(charts, "last_session_timing_distribution", "Last Session Timing Distribution")}
 
 ---
 
@@ -404,34 +435,39 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 ### Last 4 Sessions
 
 {_agg_section(tally.get('last_4_sessions', {}))}
+{_chart_img(charts, "last_4_sessions_market_share", "Last 4 Sessions Market Share")}
 
 ---
 
 ### Last ~6 Months (26 Weeks)
 
 {_agg_section(tally.get('last_26_weeks', {}))}
+{_chart_img(charts, "last_26_weeks_market_share", "Last 26 Weeks Market Share")}
 
 ---
 
 ### Last 52 Weeks
 
 {_agg_section(tally.get('last_52_weeks', {}))}
+{_chart_img(charts, "last_52_weeks_market_share", "Last 52 Weeks Market Share")}
 
 ---
 
 ## All Time
 
 {_agg_section(tally.get('all_time', {}))}
+{_chart_img(charts, "all_time_market_share", "All Time Market Share")}
+{trend_section}
 
 ---
 
 ## By Year
-{by_year_sections}
+{by_year_sections_out}
 
 ---
 
 ## By Month
-{by_month_sections}
+{by_month_sections_out}
 
 ---
 
@@ -441,6 +477,7 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 |------|-------------|
 | `data/YYYY/MM/DD.json` | Raw API response for each session |
 | `tally.json` | Machine-readable aggregate statistics |
+| `charts/` | Auto-generated visualizations (PNG) |
 | `README.md` | This file — auto-generated each week |
 
 ---
@@ -489,8 +526,13 @@ def main() -> None:
     tally_path.write_text(json.dumps(tally, indent=2, ensure_ascii=False))
     print(f"  Wrote {tally_path.relative_to(ROOT)}")
 
-    # 5. Regenerate README
-    readme = generate_readme(tally)
+    # 5. Generate charts
+    charts_dir = ROOT / "charts"
+    charts = generate_all_charts(tally, all_stats, all_sessions, charts_dir)
+    print(f"  Generated {len(charts)} charts")
+
+    # 6. Regenerate README
+    readme = generate_readme(tally, charts)
     (ROOT / "README.md").write_text(readme, encoding="utf-8")
     print("  Updated README.md")
 

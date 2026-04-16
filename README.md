@@ -3,7 +3,7 @@
 > Automated archive and analytics for CIRA **To-Be-Released (TBR)** `.CA` domain
 > drop sessions. Updated every **Wednesday ≈ 19:30 UTC** via GitHub Actions.
 
-**Last updated:** 2026-04-16 &nbsp;|&nbsp; **Total sessions tracked:** 1
+**Last updated:** 2026-04-17 &nbsp;|&nbsp; **Total sessions tracked:** 1
 
 ---
 
@@ -86,6 +86,18 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 | +294 | 1 |
 | +299 | 1 |
 
+![Last Session Market Share](charts/last_session_market_share.png)
+
+
+![Last Session Latency Distribution](charts/last_session_latency_histogram.png)
+
+
+![Last Session Latency by Registrar](charts/last_session_latency_by_registrar.png)
+
+
+![Last Session Timing Distribution](charts/last_session_timing_distribution.png)
+
+
 ---
 
 ## Rolling Windows
@@ -113,6 +125,9 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 | easyDNS Technologies Inc. | 2 | 0.78% | 1 | 11814 |
 | Register.ca Inc. | 1 | 0.39% | 1 | 10031 |
 
+![Last 4 Sessions Market Share](charts/last_4_sessions_market_share.png)
+
+
 ---
 
 ### Last ~6 Months (26 Weeks)
@@ -137,6 +152,9 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 | PlanetHoster | 2 | 0.78% | 1 | 4720 |
 | easyDNS Technologies Inc. | 2 | 0.78% | 1 | 11814 |
 | Register.ca Inc. | 1 | 0.39% | 1 | 10031 |
+
+![Last 26 Weeks Market Share](charts/last_26_weeks_market_share.png)
+
 
 ---
 
@@ -163,6 +181,9 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 | easyDNS Technologies Inc. | 2 | 0.78% | 1 | 11814 |
 | Register.ca Inc. | 1 | 0.39% | 1 | 10031 |
 
+![Last 52 Weeks Market Share](charts/last_52_weeks_market_share.png)
+
+
 ---
 
 ## All Time
@@ -187,6 +208,10 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 | PlanetHoster | 2 | 0.78% | 1 | 4720 |
 | easyDNS Technologies Inc. | 2 | 0.78% | 1 | 11814 |
 | Register.ca Inc. | 1 | 0.39% | 1 | 10031 |
+
+![All Time Market Share](charts/all_time_market_share.png)
+
+
 
 ---
 
@@ -214,6 +239,8 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 | PlanetHoster | 2 | 0.78% | 1 | 4720 |
 | easyDNS Technologies Inc. | 2 | 0.78% | 1 | 11814 |
 | Register.ca Inc. | 1 | 0.39% | 1 | 10031 |
+
+![Market share 2026](charts/year_2026_market_share.png)
 
 
 ---
@@ -252,6 +279,7 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 |------|-------------|
 | `data/YYYY/MM/DD.json` | Raw API response for each session |
 | `tally.json` | Machine-readable aggregate statistics |
+| `charts/` | Auto-generated visualizations (PNG) |
 | `README.md` | This file — auto-generated each week |
 
 ---
