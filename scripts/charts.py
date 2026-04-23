@@ -57,7 +57,7 @@ def _apply_style(ax: plt.Axes, title: str, subtitle: str = "") -> None:
     ax.set_axisbelow(True)
     ax.grid(axis="y", color=GRID_COLOR, linewidth=0.5)
     ax.set_title(title, fontsize=13, fontweight="bold", color=TEXT_COLOR,
-                 loc="left", pad=12)
+                 loc="left", pad=24)
     if subtitle:
         ax.text(0, 1.02, subtitle, transform=ax.transAxes,
                 fontsize=9, color=SUBTITLE_COLOR, va="bottom")
