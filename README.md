@@ -3,7 +3,7 @@
 > Automated archive and analytics for CIRA **To-Be-Released (TBR)** `.CA` domain
 > drop sessions. Updated every **Wednesday ≈ 19:30 UTC** via GitHub Actions.
 
-**Last updated:** 2026-05-13 &nbsp;|&nbsp; **Total sessions tracked:** 5
+**Last updated:** 2026-05-20 &nbsp;|&nbsp; **Total sessions tracked:** 6
 
 ---
 
@@ -19,62 +19,71 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 
 ## Last Session
 
-- **Date:** 2026-05-13
-- **Domains released:** 240
-- **Domains registered:** 240
+- **Date:** 2026-05-20
+- **Domains released:** 217
+- **Domains registered:** 217
 - **Registration rate:** 100.0%
-- **Unique registrars:** 9
-- **Session duration:** 123,162 ms
-- **Market concentration (HHI):** 4,647.4
+- **Unique registrars:** 8
+- **Session duration:** 232,435 ms
+- **Market concentration (HHI):** 3,904.4
 
 **Capture latency across all registrars:**
-- Min: 2 ms | Median: 11542 ms | Mean: 12205.5 ms | P95: 21920 ms | Max: 123164 ms
+- Min: 69 ms | Median: 10868 ms | Mean: 23457.7 ms | P95: 152152 ms | Max: 232504 ms
 
 **Per-registrar latency breakdown:**
 
 | Registrar | Domains | Min (ms) | Median (ms) | Mean (ms) | P95 (ms) | Max (ms) | StdDev (ms) |
 |-----------|--------:|---------:|------------:|----------:|---------:|---------:|------------:|
-| WHC Online Solutions Inc. | 150 | 46 | 11158 | 10482.5 | 17825 | 18620 | 5209.8 |
-| BareMetal.com inc | 64 | 14 | 15571 | 14160.2 | 22555 | 25241 | 6763.0 |
-| Register.ca Inc. | 11 | 2 | 29 | 1752.6 | 6946 | 6946 | 2910.0 |
-| Webnames.ca Inc. | 5 | 22692 | 67967 | 73967.2 | 123164 | 123164 | 41622.4 |
-| MyID.ca INC. | 4 | 12 | 19 | 1605.2 | 6370 | 6370 | 3176.5 |
-| Grape Inc. | 2 | 31 | 32 | 32 | 33 | 33 | 1.4 |
-| easyDNS Technologies Inc. | 2 | 12866 | 22970 | 22970.5 | 33075 | 33075 | 14289.9 |
-| DomainePlus.com (3612040 CANADA inc.) | 1 | 1794 | 1794 | 1794 | 1794 | 1794 | 0 |
-| CanSpace Solutions Inc. | 1 | 7370 | 7370 | 7370 | 7370 | 7370 | 0 |
+| WHC Online Solutions Inc. | 125 | 69 | 10793 | 9633.4 | 16245 | 16306 | 5114.4 |
+| BareMetal.com inc | 44 | 70 | 11396 | 11406.9 | 20041 | 20071 | 5572.7 |
+| Webnames.ca Inc. | 22 | 16518 | 149646 | 140043.1 | 227407 | 232504 | 69074.9 |
+| MyID.ca INC. | 18 | 4904 | 5151 | 7216.7 | 10018 | 10018 | 2544.5 |
+| 8648255 CANADA LTD. O/A Dynadot LLC | 3 | 121 | 32014 | 53930.7 | 129657 | 129657 | 67491.8 |
+| DomainePlus.com (3612040 CANADA inc.) | 2 | 108 | 111 | 111.5 | 115 | 115 | 4.9 |
+| PlanetHoster | 2 | 4966 | 4998 | 4998.5 | 5031 | 5031 | 46.0 |
+| easyDNS Technologies Inc. | 1 | 1381 | 1381 | 1381 | 1381 | 1381 | 0 |
 
 **Timing distribution (captures by second offset from 19:00:00 UTC):**
 
 | Offset (s) | Domains Captured |
 |-----------:|-----------------:|
-| +0 | 28 |
-| +1 | 8 |
-| +4 | 3 |
-| +5 | 17 |
-| +6 | 14 |
-| +7 | 15 |
-| +8 | 8 |
-| +9 | 4 |
-| +10 | 15 |
-| +11 | 15 |
-| +12 | 17 |
-| +13 | 13 |
-| +14 | 5 |
-| +15 | 16 |
-| +16 | 15 |
-| +17 | 15 |
-| +18 | 6 |
-| +20 | 6 |
-| +21 | 9 |
-| +22 | 3 |
-| +23 | 2 |
-| +25 | 1 |
-| +33 | 1 |
-| +47 | 1 |
-| +67 | 1 |
-| +108 | 1 |
-| +123 | 1 |
+| +0 | 21 |
+| +1 | 3 |
+| +4 | 15 |
+| +5 | 21 |
+| +6 | 11 |
+| +7 | 2 |
+| +9 | 11 |
+| +10 | 27 |
+| +11 | 24 |
+| +12 | 6 |
+| +15 | 29 |
+| +16 | 19 |
+| +17 | 1 |
+| +20 | 4 |
+| +21 | 1 |
+| +31 | 1 |
+| +32 | 1 |
+| +36 | 1 |
+| +51 | 1 |
+| +106 | 1 |
+| +127 | 1 |
+| +129 | 1 |
+| +132 | 1 |
+| +137 | 1 |
+| +142 | 1 |
+| +147 | 1 |
+| +152 | 1 |
+| +157 | 1 |
+| +162 | 1 |
+| +182 | 1 |
+| +192 | 1 |
+| +197 | 1 |
+| +202 | 1 |
+| +207 | 1 |
+| +217 | 1 |
+| +227 | 1 |
+| +232 | 1 |
 
 ![Last Session Market Share](charts/last_session_market_share.png)
 
@@ -94,27 +103,27 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 
 ### Last 4 Sessions
 
-- **Sessions covered:** 4  (2026-04-22 → 2026-05-13)
-- **Total domains registered:** 969
-- **Avg domains/session:** 242.2
+- **Sessions covered:** 4  (2026-04-29 → 2026-05-20)
+- **Total domains registered:** 992
+- **Avg domains/session:** 248.0
 - **Unique registrars (ever active):** 12
 - **Avg registrars/session:** 9
-- **Market concentration HHI:** 5,065.9
+- **Market concentration HHI:** 4,848.9
 
 | Registrar | Domains | Share | Sessions Active | Mean Latency (ms) |
 |-----------|--------:|------:|----------------:|------------------:|
-| WHC Online Solutions Inc. | 654 | 67.49% | 4 | 10637.2 |
-| BareMetal.com inc | 215 | 22.19% | 4 | 12796.2 |
-| MyID.ca INC. | 28 | 2.89% | 3 | 4120.8 |
-| Webnames.ca Inc. | 24 | 2.48% | 4 | 77451.8 |
-| Register.ca Inc. | 13 | 1.34% | 2 | 881.5 |
-| Grape Inc. | 8 | 0.83% | 4 | 471.8 |
-| DomainePlus.com (3612040 CANADA inc.) | 8 | 0.83% | 4 | 4708 |
-| 8648255 CANADA LTD. O/A Dynadot LLC | 6 | 0.62% | 3 | 32676.5 |
-| Namespro Solutions Inc. | 5 | 0.52% | 2 | 28960.6 |
-| PlanetHoster | 3 | 0.31% | 2 | 332.8 |
-| easyDNS Technologies Inc. | 3 | 0.31% | 2 | 15110.8 |
-| CanSpace Solutions Inc. | 2 | 0.21% | 2 | 239826.5 |
+| WHC Online Solutions Inc. | 653 | 65.83% | 4 | 10615.8 |
+| BareMetal.com inc | 218 | 21.98% | 4 | 13128.4 |
+| Webnames.ca Inc. | 44 | 4.44% | 4 | 89801.7 |
+| MyID.ca INC. | 30 | 3.02% | 3 | 5075.7 |
+| Register.ca Inc. | 11 | 1.11% | 1 | 1752.6 |
+| 8648255 CANADA LTD. O/A Dynadot LLC | 8 | 0.81% | 3 | 42726.4 |
+| DomainePlus.com (3612040 CANADA inc.) | 7 | 0.71% | 4 | 2368.6 |
+| Namespro Solutions Inc. | 5 | 0.5% | 2 | 28960.6 |
+| PlanetHoster | 5 | 0.5% | 3 | 1888.0 |
+| Grape Inc. | 5 | 0.5% | 3 | 66 |
+| easyDNS Technologies Inc. | 4 | 0.4% | 3 | 10534.2 |
+| CanSpace Solutions Inc. | 2 | 0.2% | 2 | 239826.5 |
 
 ![Last 4 Sessions Market Share](charts/last_4_sessions_market_share.png)
 
@@ -123,27 +132,27 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 
 ### Last ~6 Months (26 Weeks)
 
-- **Sessions covered:** 5  (2026-04-15 → 2026-05-13)
-- **Total domains registered:** 1,224
-- **Avg domains/session:** 244.8
+- **Sessions covered:** 6  (2026-04-15 → 2026-05-20)
+- **Total domains registered:** 1,441
+- **Avg domains/session:** 240.2
 - **Unique registrars (ever active):** 12
-- **Avg registrars/session:** 9.4
-- **Market concentration HHI:** 4,964.9
+- **Avg registrars/session:** 9.2
+- **Market concentration HHI:** 4,783.8
 
 | Registrar | Domains | Share | Sessions Active | Mean Latency (ms) |
 |-----------|--------:|------:|----------------:|------------------:|
-| WHC Online Solutions Inc. | 818 | 66.83% | 5 | 10901.9 |
-| BareMetal.com inc | 267 | 21.81% | 5 | 12902.3 |
-| Webnames.ca Inc. | 40 | 3.27% | 5 | 93453.5 |
-| MyID.ca INC. | 35 | 2.86% | 4 | 4385.5 |
-| Register.ca Inc. | 14 | 1.14% | 3 | 3931.4 |
-| Grape Inc. | 11 | 0.9% | 5 | 1074.7 |
-| 8648255 CANADA LTD. O/A Dynadot LLC | 10 | 0.82% | 4 | 28115.2 |
-| DomainePlus.com (3612040 CANADA inc.) | 10 | 0.82% | 5 | 3915.2 |
-| Namespro Solutions Inc. | 7 | 0.57% | 3 | 23383.4 |
-| PlanetHoster | 5 | 0.41% | 3 | 1795.2 |
-| easyDNS Technologies Inc. | 5 | 0.41% | 3 | 14011.8 |
-| CanSpace Solutions Inc. | 2 | 0.16% | 2 | 239826.5 |
+| WHC Online Solutions Inc. | 943 | 65.44% | 6 | 10690.5 |
+| BareMetal.com inc | 311 | 21.58% | 6 | 12653.1 |
+| Webnames.ca Inc. | 62 | 4.3% | 6 | 101218.4 |
+| MyID.ca INC. | 53 | 3.68% | 5 | 4951.7 |
+| Register.ca Inc. | 14 | 0.97% | 3 | 3931.4 |
+| 8648255 CANADA LTD. O/A Dynadot LLC | 13 | 0.9% | 5 | 33278.3 |
+| DomainePlus.com (3612040 CANADA inc.) | 12 | 0.83% | 6 | 3281.2 |
+| Grape Inc. | 11 | 0.76% | 5 | 1074.7 |
+| Namespro Solutions Inc. | 7 | 0.49% | 3 | 23383.4 |
+| PlanetHoster | 7 | 0.49% | 4 | 2596.0 |
+| easyDNS Technologies Inc. | 6 | 0.42% | 4 | 10854.1 |
+| CanSpace Solutions Inc. | 2 | 0.14% | 2 | 239826.5 |
 
 ![Last 26 Weeks Market Share](charts/last_26_weeks_market_share.png)
 
@@ -152,27 +161,27 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 
 ### Last 52 Weeks
 
-- **Sessions covered:** 5  (2026-04-15 → 2026-05-13)
-- **Total domains registered:** 1,224
-- **Avg domains/session:** 244.8
+- **Sessions covered:** 6  (2026-04-15 → 2026-05-20)
+- **Total domains registered:** 1,441
+- **Avg domains/session:** 240.2
 - **Unique registrars (ever active):** 12
-- **Avg registrars/session:** 9.4
-- **Market concentration HHI:** 4,964.9
+- **Avg registrars/session:** 9.2
+- **Market concentration HHI:** 4,783.8
 
 | Registrar | Domains | Share | Sessions Active | Mean Latency (ms) |
 |-----------|--------:|------:|----------------:|------------------:|
-| WHC Online Solutions Inc. | 818 | 66.83% | 5 | 10901.9 |
-| BareMetal.com inc | 267 | 21.81% | 5 | 12902.3 |
-| Webnames.ca Inc. | 40 | 3.27% | 5 | 93453.5 |
-| MyID.ca INC. | 35 | 2.86% | 4 | 4385.5 |
-| Register.ca Inc. | 14 | 1.14% | 3 | 3931.4 |
-| Grape Inc. | 11 | 0.9% | 5 | 1074.7 |
-| 8648255 CANADA LTD. O/A Dynadot LLC | 10 | 0.82% | 4 | 28115.2 |
-| DomainePlus.com (3612040 CANADA inc.) | 10 | 0.82% | 5 | 3915.2 |
-| Namespro Solutions Inc. | 7 | 0.57% | 3 | 23383.4 |
-| PlanetHoster | 5 | 0.41% | 3 | 1795.2 |
-| easyDNS Technologies Inc. | 5 | 0.41% | 3 | 14011.8 |
-| CanSpace Solutions Inc. | 2 | 0.16% | 2 | 239826.5 |
+| WHC Online Solutions Inc. | 943 | 65.44% | 6 | 10690.5 |
+| BareMetal.com inc | 311 | 21.58% | 6 | 12653.1 |
+| Webnames.ca Inc. | 62 | 4.3% | 6 | 101218.4 |
+| MyID.ca INC. | 53 | 3.68% | 5 | 4951.7 |
+| Register.ca Inc. | 14 | 0.97% | 3 | 3931.4 |
+| 8648255 CANADA LTD. O/A Dynadot LLC | 13 | 0.9% | 5 | 33278.3 |
+| DomainePlus.com (3612040 CANADA inc.) | 12 | 0.83% | 6 | 3281.2 |
+| Grape Inc. | 11 | 0.76% | 5 | 1074.7 |
+| Namespro Solutions Inc. | 7 | 0.49% | 3 | 23383.4 |
+| PlanetHoster | 7 | 0.49% | 4 | 2596.0 |
+| easyDNS Technologies Inc. | 6 | 0.42% | 4 | 10854.1 |
+| CanSpace Solutions Inc. | 2 | 0.14% | 2 | 239826.5 |
 
 ![Last 52 Weeks Market Share](charts/last_52_weeks_market_share.png)
 
@@ -181,27 +190,27 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 
 ## All Time
 
-- **Sessions covered:** 5  (2026-04-15 → 2026-05-13)
-- **Total domains registered:** 1,224
-- **Avg domains/session:** 244.8
+- **Sessions covered:** 6  (2026-04-15 → 2026-05-20)
+- **Total domains registered:** 1,441
+- **Avg domains/session:** 240.2
 - **Unique registrars (ever active):** 12
-- **Avg registrars/session:** 9.4
-- **Market concentration HHI:** 4,964.9
+- **Avg registrars/session:** 9.2
+- **Market concentration HHI:** 4,783.8
 
 | Registrar | Domains | Share | Sessions Active | Mean Latency (ms) |
 |-----------|--------:|------:|----------------:|------------------:|
-| WHC Online Solutions Inc. | 818 | 66.83% | 5 | 10901.9 |
-| BareMetal.com inc | 267 | 21.81% | 5 | 12902.3 |
-| Webnames.ca Inc. | 40 | 3.27% | 5 | 93453.5 |
-| MyID.ca INC. | 35 | 2.86% | 4 | 4385.5 |
-| Register.ca Inc. | 14 | 1.14% | 3 | 3931.4 |
-| Grape Inc. | 11 | 0.9% | 5 | 1074.7 |
-| 8648255 CANADA LTD. O/A Dynadot LLC | 10 | 0.82% | 4 | 28115.2 |
-| DomainePlus.com (3612040 CANADA inc.) | 10 | 0.82% | 5 | 3915.2 |
-| Namespro Solutions Inc. | 7 | 0.57% | 3 | 23383.4 |
-| PlanetHoster | 5 | 0.41% | 3 | 1795.2 |
-| easyDNS Technologies Inc. | 5 | 0.41% | 3 | 14011.8 |
-| CanSpace Solutions Inc. | 2 | 0.16% | 2 | 239826.5 |
+| WHC Online Solutions Inc. | 943 | 65.44% | 6 | 10690.5 |
+| BareMetal.com inc | 311 | 21.58% | 6 | 12653.1 |
+| Webnames.ca Inc. | 62 | 4.3% | 6 | 101218.4 |
+| MyID.ca INC. | 53 | 3.68% | 5 | 4951.7 |
+| Register.ca Inc. | 14 | 0.97% | 3 | 3931.4 |
+| 8648255 CANADA LTD. O/A Dynadot LLC | 13 | 0.9% | 5 | 33278.3 |
+| DomainePlus.com (3612040 CANADA inc.) | 12 | 0.83% | 6 | 3281.2 |
+| Grape Inc. | 11 | 0.76% | 5 | 1074.7 |
+| Namespro Solutions Inc. | 7 | 0.49% | 3 | 23383.4 |
+| PlanetHoster | 7 | 0.49% | 4 | 2596.0 |
+| easyDNS Technologies Inc. | 6 | 0.42% | 4 | 10854.1 |
+| CanSpace Solutions Inc. | 2 | 0.14% | 2 | 239826.5 |
 
 ![All Time Market Share](charts/all_time_market_share.png)
 
@@ -228,27 +237,27 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 
 ### 2026
 
-- **Sessions covered:** 5  (2026-04-15 → 2026-05-13)
-- **Total domains registered:** 1,224
-- **Avg domains/session:** 244.8
+- **Sessions covered:** 6  (2026-04-15 → 2026-05-20)
+- **Total domains registered:** 1,441
+- **Avg domains/session:** 240.2
 - **Unique registrars (ever active):** 12
-- **Avg registrars/session:** 9.4
-- **Market concentration HHI:** 4,964.9
+- **Avg registrars/session:** 9.2
+- **Market concentration HHI:** 4,783.8
 
 | Registrar | Domains | Share | Sessions Active | Mean Latency (ms) |
 |-----------|--------:|------:|----------------:|------------------:|
-| WHC Online Solutions Inc. | 818 | 66.83% | 5 | 10901.9 |
-| BareMetal.com inc | 267 | 21.81% | 5 | 12902.3 |
-| Webnames.ca Inc. | 40 | 3.27% | 5 | 93453.5 |
-| MyID.ca INC. | 35 | 2.86% | 4 | 4385.5 |
-| Register.ca Inc. | 14 | 1.14% | 3 | 3931.4 |
-| Grape Inc. | 11 | 0.9% | 5 | 1074.7 |
-| 8648255 CANADA LTD. O/A Dynadot LLC | 10 | 0.82% | 4 | 28115.2 |
-| DomainePlus.com (3612040 CANADA inc.) | 10 | 0.82% | 5 | 3915.2 |
-| Namespro Solutions Inc. | 7 | 0.57% | 3 | 23383.4 |
-| PlanetHoster | 5 | 0.41% | 3 | 1795.2 |
-| easyDNS Technologies Inc. | 5 | 0.41% | 3 | 14011.8 |
-| CanSpace Solutions Inc. | 2 | 0.16% | 2 | 239826.5 |
+| WHC Online Solutions Inc. | 943 | 65.44% | 6 | 10690.5 |
+| BareMetal.com inc | 311 | 21.58% | 6 | 12653.1 |
+| Webnames.ca Inc. | 62 | 4.3% | 6 | 101218.4 |
+| MyID.ca INC. | 53 | 3.68% | 5 | 4951.7 |
+| Register.ca Inc. | 14 | 0.97% | 3 | 3931.4 |
+| 8648255 CANADA LTD. O/A Dynadot LLC | 13 | 0.9% | 5 | 33278.3 |
+| DomainePlus.com (3612040 CANADA inc.) | 12 | 0.83% | 6 | 3281.2 |
+| Grape Inc. | 11 | 0.76% | 5 | 1074.7 |
+| Namespro Solutions Inc. | 7 | 0.49% | 3 | 23383.4 |
+| PlanetHoster | 7 | 0.49% | 4 | 2596.0 |
+| easyDNS Technologies Inc. | 6 | 0.42% | 4 | 10854.1 |
+| CanSpace Solutions Inc. | 2 | 0.14% | 2 | 239826.5 |
 
 ![Market share 2026](charts/year_2026_market_share.png)
 
@@ -283,27 +292,27 @@ Capture latency is measured from the official session open at **19:00:00.000 UTC
 
 #### 2026-05
 
-- **Sessions covered:** 2  (2026-05-06 → 2026-05-13)
-- **Total domains registered:** 478
-- **Avg domains/session:** 239.0
+- **Sessions covered:** 3  (2026-05-06 → 2026-05-20)
+- **Total domains registered:** 695
+- **Avg domains/session:** 231.7
 - **Unique registrars (ever active):** 12
-- **Avg registrars/session:** 8.5
-- **Market concentration HHI:** 4,823.2
+- **Avg registrars/session:** 8.3
+- **Market concentration HHI:** 4,494.5
 
 | Registrar | Domains | Share | Sessions Active | Mean Latency (ms) |
 |-----------|--------:|------:|----------------:|------------------:|
-| WHC Online Solutions Inc. | 306 | 64.02% | 2 | 9718.2 |
-| BareMetal.com inc | 127 | 26.57% | 2 | 14047.5 |
-| Webnames.ca Inc. | 16 | 3.35% | 2 | 97092.1 |
-| Register.ca Inc. | 11 | 2.3% | 1 | 1752.6 |
-| Grape Inc. | 4 | 0.84% | 2 | 53.5 |
-| MyID.ca INC. | 4 | 0.84% | 1 | 1605.2 |
-| Namespro Solutions Inc. | 2 | 0.42% | 1 | 27678.5 |
-| 8648255 CANADA LTD. O/A Dynadot LLC | 2 | 0.42% | 1 | 42059.5 |
-| DomainePlus.com (3612040 CANADA inc.) | 2 | 0.42% | 2 | 1400 |
-| easyDNS Technologies Inc. | 2 | 0.42% | 1 | 22970.5 |
-| PlanetHoster | 1 | 0.21% | 1 | 439 |
-| CanSpace Solutions Inc. | 1 | 0.21% | 1 | 7370 |
+| WHC Online Solutions Inc. | 431 | 62.01% | 3 | 9689.9 |
+| BareMetal.com inc | 171 | 24.6% | 3 | 13167.3 |
+| Webnames.ca Inc. | 38 | 5.47% | 3 | 111409.1 |
+| MyID.ca INC. | 22 | 3.17% | 2 | 4410.9 |
+| Register.ca Inc. | 11 | 1.58% | 1 | 1752.6 |
+| 8648255 CANADA LTD. O/A Dynadot LLC | 5 | 0.72% | 2 | 47995.1 |
+| Grape Inc. | 4 | 0.58% | 2 | 53.5 |
+| DomainePlus.com (3612040 CANADA inc.) | 4 | 0.58% | 3 | 970.5 |
+| PlanetHoster | 3 | 0.43% | 2 | 2718.8 |
+| easyDNS Technologies Inc. | 3 | 0.43% | 2 | 12175.8 |
+| Namespro Solutions Inc. | 2 | 0.29% | 1 | 27678.5 |
+| CanSpace Solutions Inc. | 1 | 0.14% | 1 | 7370 |
 
 
 ---
