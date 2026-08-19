@@ -3,7 +3,7 @@
 > Automated archive and analytics for CIRA **To-Be-Released (TBR)** `.CA` domain
 > drop sessions. Updated every **Wednesday ≈ 19:30 UTC** via GitHub Actions.
 
-**Last updated:** 2026-08-12 &nbsp;|&nbsp; **Total sessions tracked:** 18
+**Last updated:** 2026-08-19 &nbsp;|&nbsp; **Total sessions tracked:** 18
 
 ---
 
