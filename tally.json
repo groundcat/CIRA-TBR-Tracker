@@ -1,84 +1,77 @@
 {
-  "generated_at": "2026-08-26T22:21:22.846313+00:00",
-  "total_sessions": 19,
+  "generated_at": "2026-09-02T21:53:43.361679+00:00",
+  "total_sessions": 20,
   "last_1_session": {
     "label": "Last Session",
     "session_count": 1,
     "date_range": {
-      "from": "2026-08-26",
-      "to": "2026-08-26"
+      "from": "2026-09-02",
+      "to": "2026-09-02"
     },
-    "total_domains_registered": 242,
-    "avg_domains_per_session": 242.0,
-    "min_domains_in_session": 242,
-    "max_domains_in_session": 242,
+    "total_domains_registered": 306,
+    "avg_domains_per_session": 306.0,
+    "min_domains_in_session": 306,
+    "max_domains_in_session": 306,
     "stdev_domains_per_session": 0,
-    "unique_registrars": 9,
-    "avg_registrars_per_session": 9,
-    "market_concentration_hhi": 3763.3,
+    "unique_registrars": 8,
+    "avg_registrars_per_session": 8,
+    "market_concentration_hhi": 3886.3,
     "registrar_breakdown": {
       "WHC Online Solutions Inc.": {
-        "domain_count": 128,
-        "market_share_pct": 52.89,
+        "domain_count": 167,
+        "market_share_pct": 54.58,
         "sessions_active": 1,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 9484.7
+        "capture_latency_mean_of_means_ms": 12703.5
       },
       "BareMetal.com inc": {
-        "domain_count": 72,
-        "market_share_pct": 29.75,
+        "domain_count": 87,
+        "market_share_pct": 28.43,
         "sessions_active": 1,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 32995.3
+        "capture_latency_mean_of_means_ms": 20732.2
       },
       "Webnames.ca Inc.": {
-        "domain_count": 17,
-        "market_share_pct": 7.02,
+        "domain_count": 27,
+        "market_share_pct": 8.82,
         "sessions_active": 1,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 76569.2
-      },
-      "MyID.ca INC.": {
-        "domain_count": 11,
-        "market_share_pct": 4.55,
-        "sessions_active": 1,
-        "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 1084.5
-      },
-      "8648255 CANADA LTD. O/A Dynadot LLC": {
-        "domain_count": 6,
-        "market_share_pct": 2.48,
-        "sessions_active": 1,
-        "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 45068.5
+        "capture_latency_mean_of_means_ms": 149798.7
       },
       "Register.ca Inc.": {
-        "domain_count": 5,
-        "market_share_pct": 2.07,
+        "domain_count": 10,
+        "market_share_pct": 3.27,
         "sessions_active": 1,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 80
+        "capture_latency_mean_of_means_ms": 4633.4
+      },
+      "MyID.ca INC.": {
+        "domain_count": 9,
+        "market_share_pct": 2.94,
+        "sessions_active": 1,
+        "session_presence_pct": 100.0,
+        "capture_latency_mean_of_means_ms": 2601.6
+      },
+      "8648255 CANADA LTD. O/A Dynadot LLC": {
+        "domain_count": 4,
+        "market_share_pct": 1.31,
+        "sessions_active": 1,
+        "session_presence_pct": 100.0,
+        "capture_latency_mean_of_means_ms": 61544.8
       },
       "DomainePlus.com (3612040 CANADA inc.)": {
         "domain_count": 1,
-        "market_share_pct": 0.41,
+        "market_share_pct": 0.33,
         "sessions_active": 1,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 75
+        "capture_latency_mean_of_means_ms": 110
       },
-      "PlanetHoster": {
+      "Namespro Solutions Inc.": {
         "domain_count": 1,
-        "market_share_pct": 0.41,
+        "market_share_pct": 0.33,
         "sessions_active": 1,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 418
-      },
-      "CanSpace Solutions Inc.": {
-        "domain_count": 1,
-        "market_share_pct": 0.41,
-        "sessions_active": 1,
-        "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 1647
+        "capture_latency_mean_of_means_ms": 113
       }
     }
   },
@@ -86,420 +79,420 @@
     "label": "Last 4 Sessions",
     "session_count": 4,
     "date_range": {
-      "from": "2026-07-29",
-      "to": "2026-08-26"
+      "from": "2026-08-05",
+      "to": "2026-09-02"
     },
-    "total_domains_registered": 1117,
-    "avg_domains_per_session": 279.2,
+    "total_domains_registered": 1144,
+    "avg_domains_per_session": 286.0,
     "min_domains_in_session": 242,
     "max_domains_in_session": 331,
-    "stdev_domains_per_session": 37.7,
+    "stdev_domains_per_session": 40.0,
     "unique_registrars": 11,
     "avg_registrars_per_session": 8.5,
-    "market_concentration_hhi": 4321.9,
+    "market_concentration_hhi": 4203.6,
     "registrar_breakdown": {
       "WHC Online Solutions Inc.": {
-        "domain_count": 669,
-        "market_share_pct": 59.89,
+        "domain_count": 672,
+        "market_share_pct": 58.74,
         "sessions_active": 4,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 11931.8
+        "capture_latency_mean_of_means_ms": 12073.0
       },
       "BareMetal.com inc": {
-        "domain_count": 294,
-        "market_share_pct": 26.32,
+        "domain_count": 303,
+        "market_share_pct": 26.49,
         "sessions_active": 4,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 20440.0
-      },
-      "MyID.ca INC.": {
-        "domain_count": 49,
-        "market_share_pct": 4.39,
-        "sessions_active": 4,
-        "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 1960.9
+        "capture_latency_mean_of_means_ms": 20696.7
       },
       "Webnames.ca Inc.": {
-        "domain_count": 39,
-        "market_share_pct": 3.49,
+        "domain_count": 57,
+        "market_share_pct": 4.98,
         "sessions_active": 4,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 73299.1
+        "capture_latency_mean_of_means_ms": 95504.8
+      },
+      "MyID.ca INC.": {
+        "domain_count": 43,
+        "market_share_pct": 3.76,
+        "sessions_active": 4,
+        "session_presence_pct": 100.0,
+        "capture_latency_mean_of_means_ms": 2093.6
       },
       "Register.ca Inc.": {
-        "domain_count": 27,
-        "market_share_pct": 2.42,
+        "domain_count": 32,
+        "market_share_pct": 2.8,
         "sessions_active": 4,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 1412.1
+        "capture_latency_mean_of_means_ms": 2062.0
       },
       "8648255 CANADA LTD. O/A Dynadot LLC": {
         "domain_count": 24,
-        "market_share_pct": 2.15,
+        "market_share_pct": 2.1,
         "sessions_active": 4,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 46639.0
-      },
-      "Namespro Solutions Inc.": {
-        "domain_count": 4,
-        "market_share_pct": 0.36,
-        "sessions_active": 3,
-        "session_presence_pct": 75.0,
-        "capture_latency_mean_of_means_ms": 29398.3
+        "capture_latency_mean_of_means_ms": 50526.2
       },
       "Grape Inc.": {
         "domain_count": 4,
-        "market_share_pct": 0.36,
+        "market_share_pct": 0.35,
         "sessions_active": 2,
         "session_presence_pct": 50.0,
         "capture_latency_mean_of_means_ms": 6010.5
       },
-      "PlanetHoster": {
+      "Namespro Solutions Inc.": {
         "domain_count": 3,
-        "market_share_pct": 0.27,
-        "sessions_active": 2,
-        "session_presence_pct": 50.0,
-        "capture_latency_mean_of_means_ms": 781.5
+        "market_share_pct": 0.26,
+        "sessions_active": 3,
+        "session_presence_pct": 75.0,
+        "capture_latency_mean_of_means_ms": 15941.7
       },
       "CanSpace Solutions Inc.": {
         "domain_count": 3,
-        "market_share_pct": 0.27,
+        "market_share_pct": 0.26,
         "sessions_active": 2,
         "session_presence_pct": 50.0,
         "capture_latency_mean_of_means_ms": 2473
       },
       "DomainePlus.com (3612040 CANADA inc.)": {
+        "domain_count": 2,
+        "market_share_pct": 0.17,
+        "sessions_active": 2,
+        "session_presence_pct": 50.0,
+        "capture_latency_mean_of_means_ms": 92.5
+      },
+      "PlanetHoster": {
         "domain_count": 1,
         "market_share_pct": 0.09,
         "sessions_active": 1,
         "session_presence_pct": 25.0,
-        "capture_latency_mean_of_means_ms": 75
+        "capture_latency_mean_of_means_ms": 418
       }
     }
   },
   "last_26_weeks": {
     "label": "Last ~6 Months (26 Weeks)",
-    "session_count": 19,
+    "session_count": 20,
     "date_range": {
       "from": "2026-04-15",
-      "to": "2026-08-26"
+      "to": "2026-09-02"
     },
-    "total_domains_registered": 4484,
-    "avg_domains_per_session": 236.0,
+    "total_domains_registered": 4790,
+    "avg_domains_per_session": 239.5,
     "min_domains_in_session": 166,
     "max_domains_in_session": 331,
-    "stdev_domains_per_session": 44.5,
+    "stdev_domains_per_session": 46.1,
     "unique_registrars": 13,
     "avg_registrars_per_session": 9.1,
-    "market_concentration_hhi": 4413.4,
+    "market_concentration_hhi": 4372.8,
     "registrar_breakdown": {
       "WHC Online Solutions Inc.": {
-        "domain_count": 2772,
-        "market_share_pct": 61.82,
-        "sessions_active": 19,
+        "domain_count": 2939,
+        "market_share_pct": 61.36,
+        "sessions_active": 20,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 10392.2
+        "capture_latency_mean_of_means_ms": 10507.7
       },
       "BareMetal.com inc": {
-        "domain_count": 1047,
-        "market_share_pct": 23.35,
-        "sessions_active": 19,
+        "domain_count": 1134,
+        "market_share_pct": 23.67,
+        "sessions_active": 20,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 13867.7
+        "capture_latency_mean_of_means_ms": 14210.9
       },
       "MyID.ca INC.": {
-        "domain_count": 232,
-        "market_share_pct": 5.17,
-        "sessions_active": 18,
-        "session_presence_pct": 94.7,
-        "capture_latency_mean_of_means_ms": 7410.5
+        "domain_count": 241,
+        "market_share_pct": 5.03,
+        "sessions_active": 19,
+        "session_presence_pct": 95.0,
+        "capture_latency_mean_of_means_ms": 7157.4
       },
       "Webnames.ca Inc.": {
-        "domain_count": 146,
-        "market_share_pct": 3.26,
-        "sessions_active": 19,
+        "domain_count": 173,
+        "market_share_pct": 3.61,
+        "sessions_active": 20,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 79836.0
+        "capture_latency_mean_of_means_ms": 83334.1
       },
       "Register.ca Inc.": {
-        "domain_count": 104,
-        "market_share_pct": 2.32,
-        "sessions_active": 16,
-        "session_presence_pct": 84.2,
-        "capture_latency_mean_of_means_ms": 2801.8
+        "domain_count": 114,
+        "market_share_pct": 2.38,
+        "sessions_active": 17,
+        "session_presence_pct": 85.0,
+        "capture_latency_mean_of_means_ms": 2909.5
       },
       "8648255 CANADA LTD. O/A Dynadot LLC": {
-        "domain_count": 70,
-        "market_share_pct": 1.56,
-        "sessions_active": 17,
-        "session_presence_pct": 89.5,
-        "capture_latency_mean_of_means_ms": 36576.6
+        "domain_count": 74,
+        "market_share_pct": 1.54,
+        "sessions_active": 18,
+        "session_presence_pct": 90.0,
+        "capture_latency_mean_of_means_ms": 37963.8
       },
       "Grape Inc.": {
         "domain_count": 33,
-        "market_share_pct": 0.74,
+        "market_share_pct": 0.69,
         "sessions_active": 14,
-        "session_presence_pct": 73.7,
+        "session_presence_pct": 70.0,
         "capture_latency_mean_of_means_ms": 2084.3
       },
       "DomainePlus.com (3612040 CANADA inc.)": {
-        "domain_count": 23,
-        "market_share_pct": 0.51,
-        "sessions_active": 13,
-        "session_presence_pct": 68.4,
-        "capture_latency_mean_of_means_ms": 3899.3
+        "domain_count": 24,
+        "market_share_pct": 0.5,
+        "sessions_active": 14,
+        "session_presence_pct": 70.0,
+        "capture_latency_mean_of_means_ms": 3628.7
       },
       "Namespro Solutions Inc.": {
-        "domain_count": 20,
-        "market_share_pct": 0.45,
-        "sessions_active": 11,
-        "session_presence_pct": 57.9,
-        "capture_latency_mean_of_means_ms": 27412.2
+        "domain_count": 21,
+        "market_share_pct": 0.44,
+        "sessions_active": 12,
+        "session_presence_pct": 60.0,
+        "capture_latency_mean_of_means_ms": 25137.3
       },
       "PlanetHoster": {
         "domain_count": 18,
-        "market_share_pct": 0.4,
+        "market_share_pct": 0.38,
         "sessions_active": 12,
-        "session_presence_pct": 63.2,
+        "session_presence_pct": 60.0,
         "capture_latency_mean_of_means_ms": 1286.9
       },
       "easyDNS Technologies Inc.": {
         "domain_count": 11,
-        "market_share_pct": 0.25,
+        "market_share_pct": 0.23,
         "sessions_active": 8,
-        "session_presence_pct": 42.1,
+        "session_presence_pct": 40.0,
         "capture_latency_mean_of_means_ms": 10928.4
       },
       "CanSpace Solutions Inc.": {
         "domain_count": 6,
         "market_share_pct": 0.13,
         "sessions_active": 5,
-        "session_presence_pct": 26.3,
+        "session_presence_pct": 25.0,
         "capture_latency_mean_of_means_ms": 97029.6
       },
       "FastWebServer Internet Services Inc.": {
         "domain_count": 2,
         "market_share_pct": 0.04,
         "sessions_active": 2,
-        "session_presence_pct": 10.5,
+        "session_presence_pct": 10.0,
         "capture_latency_mean_of_means_ms": 3029.5
       }
     }
   },
   "last_52_weeks": {
     "label": "Last 52 Weeks",
-    "session_count": 19,
+    "session_count": 20,
     "date_range": {
       "from": "2026-04-15",
-      "to": "2026-08-26"
+      "to": "2026-09-02"
     },
-    "total_domains_registered": 4484,
-    "avg_domains_per_session": 236.0,
+    "total_domains_registered": 4790,
+    "avg_domains_per_session": 239.5,
     "min_domains_in_session": 166,
     "max_domains_in_session": 331,
-    "stdev_domains_per_session": 44.5,
+    "stdev_domains_per_session": 46.1,
     "unique_registrars": 13,
     "avg_registrars_per_session": 9.1,
-    "market_concentration_hhi": 4413.4,
+    "market_concentration_hhi": 4372.8,
     "registrar_breakdown": {
       "WHC Online Solutions Inc.": {
-        "domain_count": 2772,
-        "market_share_pct": 61.82,
-        "sessions_active": 19,
+        "domain_count": 2939,
+        "market_share_pct": 61.36,
+        "sessions_active": 20,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 10392.2
+        "capture_latency_mean_of_means_ms": 10507.7
       },
       "BareMetal.com inc": {
-        "domain_count": 1047,
-        "market_share_pct": 23.35,
-        "sessions_active": 19,
+        "domain_count": 1134,
+        "market_share_pct": 23.67,
+        "sessions_active": 20,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 13867.7
+        "capture_latency_mean_of_means_ms": 14210.9
       },
       "MyID.ca INC.": {
-        "domain_count": 232,
-        "market_share_pct": 5.17,
-        "sessions_active": 18,
-        "session_presence_pct": 94.7,
-        "capture_latency_mean_of_means_ms": 7410.5
+        "domain_count": 241,
+        "market_share_pct": 5.03,
+        "sessions_active": 19,
+        "session_presence_pct": 95.0,
+        "capture_latency_mean_of_means_ms": 7157.4
       },
       "Webnames.ca Inc.": {
-        "domain_count": 146,
-        "market_share_pct": 3.26,
-        "sessions_active": 19,
+        "domain_count": 173,
+        "market_share_pct": 3.61,
+        "sessions_active": 20,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 79836.0
+        "capture_latency_mean_of_means_ms": 83334.1
       },
       "Register.ca Inc.": {
-        "domain_count": 104,
-        "market_share_pct": 2.32,
-        "sessions_active": 16,
-        "session_presence_pct": 84.2,
-        "capture_latency_mean_of_means_ms": 2801.8
+        "domain_count": 114,
+        "market_share_pct": 2.38,
+        "sessions_active": 17,
+        "session_presence_pct": 85.0,
+        "capture_latency_mean_of_means_ms": 2909.5
       },
       "8648255 CANADA LTD. O/A Dynadot LLC": {
-        "domain_count": 70,
-        "market_share_pct": 1.56,
-        "sessions_active": 17,
-        "session_presence_pct": 89.5,
-        "capture_latency_mean_of_means_ms": 36576.6
+        "domain_count": 74,
+        "market_share_pct": 1.54,
+        "sessions_active": 18,
+        "session_presence_pct": 90.0,
+        "capture_latency_mean_of_means_ms": 37963.8
       },
       "Grape Inc.": {
         "domain_count": 33,
-        "market_share_pct": 0.74,
+        "market_share_pct": 0.69,
         "sessions_active": 14,
-        "session_presence_pct": 73.7,
+        "session_presence_pct": 70.0,
         "capture_latency_mean_of_means_ms": 2084.3
       },
       "DomainePlus.com (3612040 CANADA inc.)": {
-        "domain_count": 23,
-        "market_share_pct": 0.51,
-        "sessions_active": 13,
-        "session_presence_pct": 68.4,
-        "capture_latency_mean_of_means_ms": 3899.3
+        "domain_count": 24,
+        "market_share_pct": 0.5,
+        "sessions_active": 14,
+        "session_presence_pct": 70.0,
+        "capture_latency_mean_of_means_ms": 3628.7
       },
       "Namespro Solutions Inc.": {
-        "domain_count": 20,
-        "market_share_pct": 0.45,
-        "sessions_active": 11,
-        "session_presence_pct": 57.9,
-        "capture_latency_mean_of_means_ms": 27412.2
+        "domain_count": 21,
+        "market_share_pct": 0.44,
+        "sessions_active": 12,
+        "session_presence_pct": 60.0,
+        "capture_latency_mean_of_means_ms": 25137.3
       },
       "PlanetHoster": {
         "domain_count": 18,
-        "market_share_pct": 0.4,
+        "market_share_pct": 0.38,
         "sessions_active": 12,
-        "session_presence_pct": 63.2,
+        "session_presence_pct": 60.0,
         "capture_latency_mean_of_means_ms": 1286.9
       },
       "easyDNS Technologies Inc.": {
         "domain_count": 11,
-        "market_share_pct": 0.25,
+        "market_share_pct": 0.23,
         "sessions_active": 8,
-        "session_presence_pct": 42.1,
+        "session_presence_pct": 40.0,
         "capture_latency_mean_of_means_ms": 10928.4
       },
       "CanSpace Solutions Inc.": {
         "domain_count": 6,
         "market_share_pct": 0.13,
         "sessions_active": 5,
-        "session_presence_pct": 26.3,
+        "session_presence_pct": 25.0,
         "capture_latency_mean_of_means_ms": 97029.6
       },
       "FastWebServer Internet Services Inc.": {
         "domain_count": 2,
         "market_share_pct": 0.04,
         "sessions_active": 2,
-        "session_presence_pct": 10.5,
+        "session_presence_pct": 10.0,
         "capture_latency_mean_of_means_ms": 3029.5
       }
     }
   },
   "all_time": {
     "label": "All Time",
-    "session_count": 19,
+    "session_count": 20,
     "date_range": {
       "from": "2026-04-15",
-      "to": "2026-08-26"
+      "to": "2026-09-02"
     },
-    "total_domains_registered": 4484,
-    "avg_domains_per_session": 236.0,
+    "total_domains_registered": 4790,
+    "avg_domains_per_session": 239.5,
     "min_domains_in_session": 166,
     "max_domains_in_session": 331,
-    "stdev_domains_per_session": 44.5,
+    "stdev_domains_per_session": 46.1,
     "unique_registrars": 13,
     "avg_registrars_per_session": 9.1,
-    "market_concentration_hhi": 4413.4,
+    "market_concentration_hhi": 4372.8,
     "registrar_breakdown": {
       "WHC Online Solutions Inc.": {
-        "domain_count": 2772,
-        "market_share_pct": 61.82,
-        "sessions_active": 19,
+        "domain_count": 2939,
+        "market_share_pct": 61.36,
+        "sessions_active": 20,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 10392.2
+        "capture_latency_mean_of_means_ms": 10507.7
       },
       "BareMetal.com inc": {
-        "domain_count": 1047,
-        "market_share_pct": 23.35,
-        "sessions_active": 19,
+        "domain_count": 1134,
+        "market_share_pct": 23.67,
+        "sessions_active": 20,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 13867.7
+        "capture_latency_mean_of_means_ms": 14210.9
       },
       "MyID.ca INC.": {
-        "domain_count": 232,
-        "market_share_pct": 5.17,
-        "sessions_active": 18,
-        "session_presence_pct": 94.7,
-        "capture_latency_mean_of_means_ms": 7410.5
+        "domain_count": 241,
+        "market_share_pct": 5.03,
+        "sessions_active": 19,
+        "session_presence_pct": 95.0,
+        "capture_latency_mean_of_means_ms": 7157.4
       },
       "Webnames.ca Inc.": {
-        "domain_count": 146,
-        "market_share_pct": 3.26,
-        "sessions_active": 19,
+        "domain_count": 173,
+        "market_share_pct": 3.61,
+        "sessions_active": 20,
         "session_presence_pct": 100.0,
-        "capture_latency_mean_of_means_ms": 79836.0
+        "capture_latency_mean_of_means_ms": 83334.1
       },
       "Register.ca Inc.": {
-        "domain_count": 104,
-        "market_share_pct": 2.32,
-        "sessions_active": 16,
-        "session_presence_pct": 84.2,
-        "capture_latency_mean_of_means_ms": 2801.8
+        "domain_count": 114,
+        "market_share_pct": 2.38,
+        "sessions_active": 17,
+        "session_presence_pct": 85.0,
+        "capture_latency_mean_of_means_ms": 2909.5
       },
       "8648255 CANADA LTD. O/A Dynadot LLC": {
-        "domain_count": 70,
-        "market_share_pct": 1.56,
-        "sessions_active": 17,
-        "session_presence_pct": 89.5,
-        "capture_latency_mean_of_means_ms": 36576.6
+        "domain_count": 74,
+        "market_share_pct": 1.54,
+        "sessions_active": 18,
+        "session_presence_pct": 90.0,
+        "capture_latency_mean_of_means_ms": 37963.8
       },
       "Grape Inc.": {
         "domain_count": 33,
-        "market_share_pct": 0.74,
+        "market_share_pct": 0.69,
         "sessions_active": 14,
-        "session_presence_pct": 73.7,
+        "session_presence_pct": 70.0,
         "capture_latency_mean_of_means_ms": 2084.3
       },
       "DomainePlus.com (3612040 CANADA inc.)": {
-        "domain_count": 23,
-        "market_share_pct": 0.51,
-        "sessions_active": 13,
-        "session_presence_pct": 68.4,
-        "capture_latency_mean_of_means_ms": 3899.3
+        "domain_count": 24,
+        "market_share_pct": 0.5,
+        "sessions_active": 14,
+        "session_presence_pct": 70.0,
+        "capture_latency_mean_of_means_ms": 3628.7
       },
       "Namespro Solutions Inc.": {
-        "domain_count": 20,
-        "market_share_pct": 0.45,
-        "sessions_active": 11,
-        "session_presence_pct": 57.9,
-        "capture_latency_mean_of_means_ms": 27412.2
+        "domain_count": 21,
+        "market_share_pct": 0.44,
+        "sessions_active": 12,
+        "session_presence_pct": 60.0,
+        "capture_latency_mean_of_means_ms": 25137.3
       },
       "PlanetHoster": {
         "domain_count": 18,
-        "market_share_pct": 0.4,
+        "market_share_pct": 0.38,
         "sessions_active": 12,
-        "session_presence_pct": 63.2,
+        "session_presence_pct": 60.0,
         "capture_latency_mean_of_means_ms": 1286.9
       },
       "easyDNS Technologies Inc.": {
         "domain_count": 11,
-        "market_share_pct": 0.25,
+        "market_share_pct": 0.23,
         "sessions_active": 8,
-        "session_presence_pct": 42.1,
+        "session_presence_pct": 40.0,
         "capture_latency_mean_of_means_ms": 10928.4
       },
       "CanSpace Solutions Inc.": {
         "domain_count": 6,
         "market_share_pct": 0.13,
         "sessions_active": 5,
-        "session_presence_pct": 26.3,
+        "session_presence_pct": 25.0,
         "capture_latency_mean_of_means_ms": 97029.6
       },
       "FastWebServer Internet Services Inc.": {
         "domain_count": 2,
         "market_share_pct": 0.04,
         "sessions_active": 2,
-        "session_presence_pct": 10.5,
+        "session_presence_pct": 10.0,
         "capture_latency_mean_of_means_ms": 3029.5
       }
     }
@@ -507,109 +500,109 @@
   "by_year": {
     "2026": {
       "label": "Year 2026",
-      "session_count": 19,
+      "session_count": 20,
       "date_range": {
         "from": "2026-04-15",
-        "to": "2026-08-26"
+        "to": "2026-09-02"
       },
-      "total_domains_registered": 4484,
-      "avg_domains_per_session": 236.0,
+      "total_domains_registered": 4790,
+      "avg_domains_per_session": 239.5,
       "min_domains_in_session": 166,
       "max_domains_in_session": 331,
-      "stdev_domains_per_session": 44.5,
+      "stdev_domains_per_session": 46.1,
       "unique_registrars": 13,
       "avg_registrars_per_session": 9.1,
-      "market_concentration_hhi": 4413.4,
+      "market_concentration_hhi": 4372.8,
       "registrar_breakdown": {
         "WHC Online Solutions Inc.": {
-          "domain_count": 2772,
-          "market_share_pct": 61.82,
-          "sessions_active": 19,
+          "domain_count": 2939,
+          "market_share_pct": 61.36,
+          "sessions_active": 20,
           "session_presence_pct": 100.0,
-          "capture_latency_mean_of_means_ms": 10392.2
+          "capture_latency_mean_of_means_ms": 10507.7
         },
         "BareMetal.com inc": {
-          "domain_count": 1047,
-          "market_share_pct": 23.35,
-          "sessions_active": 19,
+          "domain_count": 1134,
+          "market_share_pct": 23.67,
+          "sessions_active": 20,
           "session_presence_pct": 100.0,
-          "capture_latency_mean_of_means_ms": 13867.7
+          "capture_latency_mean_of_means_ms": 14210.9
         },
         "MyID.ca INC.": {
-          "domain_count": 232,
-          "market_share_pct": 5.17,
-          "sessions_active": 18,
-          "session_presence_pct": 94.7,
-          "capture_latency_mean_of_means_ms": 7410.5
+          "domain_count": 241,
+          "market_share_pct": 5.03,
+          "sessions_active": 19,
+          "session_presence_pct": 95.0,
+          "capture_latency_mean_of_means_ms": 7157.4
         },
         "Webnames.ca Inc.": {
-          "domain_count": 146,
-          "market_share_pct": 3.26,
-          "sessions_active": 19,
+          "domain_count": 173,
+          "market_share_pct": 3.61,
+          "sessions_active": 20,
           "session_presence_pct": 100.0,
-          "capture_latency_mean_of_means_ms": 79836.0
+          "capture_latency_mean_of_means_ms": 83334.1
         },
         "Register.ca Inc.": {
-          "domain_count": 104,
-          "market_share_pct": 2.32,
-          "sessions_active": 16,
-          "session_presence_pct": 84.2,
-          "capture_latency_mean_of_means_ms": 2801.8
+          "domain_count": 114,
+          "market_share_pct": 2.38,
+          "sessions_active": 17,
+          "session_presence_pct": 85.0,
+          "capture_latency_mean_of_means_ms": 2909.5
         },
         "8648255 CANADA LTD. O/A Dynadot LLC": {
-          "domain_count": 70,
-          "market_share_pct": 1.56,
-          "sessions_active": 17,
-          "session_presence_pct": 89.5,
-          "capture_latency_mean_of_means_ms": 36576.6
+          "domain_count": 74,
+          "market_share_pct": 1.54,
+          "sessions_active": 18,
+          "session_presence_pct": 90.0,
+          "capture_latency_mean_of_means_ms": 37963.8
         },
         "Grape Inc.": {
           "domain_count": 33,
-          "market_share_pct": 0.74,
+          "market_share_pct": 0.69,
           "sessions_active": 14,
-          "session_presence_pct": 73.7,
+          "session_presence_pct": 70.0,
           "capture_latency_mean_of_means_ms": 2084.3
         },
         "DomainePlus.com (3612040 CANADA inc.)": {
-          "domain_count": 23,
-          "market_share_pct": 0.51,
-          "sessions_active": 13,
-          "session_presence_pct": 68.4,
-          "capture_latency_mean_of_means_ms": 3899.3
+          "domain_count": 24,
+          "market_share_pct": 0.5,
+          "sessions_active": 14,
+          "session_presence_pct": 70.0,
+          "capture_latency_mean_of_means_ms": 3628.7
         },
         "Namespro Solutions Inc.": {
-          "domain_count": 20,
-          "market_share_pct": 0.45,
-          "sessions_active": 11,
-          "session_presence_pct": 57.9,
-          "capture_latency_mean_of_means_ms": 27412.2
+          "domain_count": 21,
+          "market_share_pct": 0.44,
+          "sessions_active": 12,
+          "session_presence_pct": 60.0,
+          "capture_latency_mean_of_means_ms": 25137.3
         },
         "PlanetHoster": {
           "domain_count": 18,
-          "market_share_pct": 0.4,
+          "market_share_pct": 0.38,
           "sessions_active": 12,
-          "session_presence_pct": 63.2,
+          "session_presence_pct": 60.0,
           "capture_latency_mean_of_means_ms": 1286.9
         },
         "easyDNS Technologies Inc.": {
           "domain_count": 11,
-          "market_share_pct": 0.25,
+          "market_share_pct": 0.23,
           "sessions_active": 8,
-          "session_presence_pct": 42.1,
+          "session_presence_pct": 40.0,
           "capture_latency_mean_of_means_ms": 10928.4
         },
         "CanSpace Solutions Inc.": {
           "domain_count": 6,
           "market_share_pct": 0.13,
           "sessions_active": 5,
-          "session_presence_pct": 26.3,
+          "session_presence_pct": 25.0,
           "capture_latency_mean_of_means_ms": 97029.6
         },
         "FastWebServer Internet Services Inc.": {
           "domain_count": 2,
           "market_share_pct": 0.04,
           "sessions_active": 2,
-          "session_presence_pct": 10.5,
+          "session_presence_pct": 10.0,
           "capture_latency_mean_of_means_ms": 3029.5
         }
       }
@@ -1116,6 +1109,80 @@
           "sessions_active": 1,
           "session_presence_pct": 33.3,
           "capture_latency_mean_of_means_ms": 418
+        }
+      }
+    },
+    "2026-09": {
+      "label": "Month 2026-09",
+      "session_count": 1,
+      "date_range": {
+        "from": "2026-09-02",
+        "to": "2026-09-02"
+      },
+      "total_domains_registered": 306,
+      "avg_domains_per_session": 306.0,
+      "min_domains_in_session": 306,
+      "max_domains_in_session": 306,
+      "stdev_domains_per_session": 0,
+      "unique_registrars": 8,
+      "avg_registrars_per_session": 8,
+      "market_concentration_hhi": 3886.3,
+      "registrar_breakdown": {
+        "WHC Online Solutions Inc.": {
+          "domain_count": 167,
+          "market_share_pct": 54.58,
+          "sessions_active": 1,
+          "session_presence_pct": 100.0,
+          "capture_latency_mean_of_means_ms": 12703.5
+        },
+        "BareMetal.com inc": {
+          "domain_count": 87,
+          "market_share_pct": 28.43,
+          "sessions_active": 1,
+          "session_presence_pct": 100.0,
+          "capture_latency_mean_of_means_ms": 20732.2
+        },
+        "Webnames.ca Inc.": {
+          "domain_count": 27,
+          "market_share_pct": 8.82,
+          "sessions_active": 1,
+          "session_presence_pct": 100.0,
+          "capture_latency_mean_of_means_ms": 149798.7
+        },
+        "Register.ca Inc.": {
+          "domain_count": 10,
+          "market_share_pct": 3.27,
+          "sessions_active": 1,
+          "session_presence_pct": 100.0,
+          "capture_latency_mean_of_means_ms": 4633.4
+        },
+        "MyID.ca INC.": {
+          "domain_count": 9,
+          "market_share_pct": 2.94,
+          "sessions_active": 1,
+          "session_presence_pct": 100.0,
+          "capture_latency_mean_of_means_ms": 2601.6
+        },
+        "8648255 CANADA LTD. O/A Dynadot LLC": {
+          "domain_count": 4,
+          "market_share_pct": 1.31,
+          "sessions_active": 1,
+          "session_presence_pct": 100.0,
+          "capture_latency_mean_of_means_ms": 61544.8
+        },
+        "DomainePlus.com (3612040 CANADA inc.)": {
+          "domain_count": 1,
+          "market_share_pct": 0.33,
+          "sessions_active": 1,
+          "session_presence_pct": 100.0,
+          "capture_latency_mean_of_means_ms": 110
+        },
+        "Namespro Solutions Inc.": {
+          "domain_count": 1,
+          "market_share_pct": 0.33,
+          "sessions_active": 1,
+          "session_presence_pct": 100.0,
+          "capture_latency_mean_of_means_ms": 113
         }
       }
     }
@@ -3751,6 +3818,163 @@
         "137": 1,
         "142": 1,
         "147": 1
+      }
+    },
+    "2026-09-02": {
+      "date": "2026-09-02",
+      "release_timestamp": "2026-09-02T19:00:00.000Z",
+      "domains_released": 306,
+      "domains_registered": 306,
+      "registration_rate_pct": 100.0,
+      "unique_registrars": 8,
+      "capture_latency_min_ms": 40,
+      "capture_latency_median_ms": 15698,
+      "capture_latency_mean_ms": 27078.1,
+      "capture_latency_p95_ms": 133843,
+      "capture_latency_max_ms": 274351,
+      "session_duration_ms": 274311,
+      "market_concentration_hhi": 3886.3,
+      "top_registrar": "WHC Online Solutions Inc.",
+      "registrar_breakdown": {
+        "WHC Online Solutions Inc.": {
+          "domain_count": 167,
+          "market_share_pct": 54.58,
+          "capture_latency_min_ms": 43,
+          "capture_latency_median_ms": 12424,
+          "capture_latency_mean_ms": 12703.5,
+          "capture_latency_p95_ms": 21458,
+          "capture_latency_max_ms": 23216,
+          "capture_latency_stdev_ms": 5867.4
+        },
+        "BareMetal.com inc": {
+          "domain_count": 87,
+          "market_share_pct": 28.43,
+          "capture_latency_min_ms": 40,
+          "capture_latency_median_ms": 25046,
+          "capture_latency_mean_ms": 20732.2,
+          "capture_latency_p95_ms": 35217,
+          "capture_latency_max_ms": 35624,
+          "capture_latency_stdev_ms": 11238.6
+        },
+        "Webnames.ca Inc.": {
+          "domain_count": 27,
+          "market_share_pct": 8.82,
+          "capture_latency_min_ms": 12883,
+          "capture_latency_median_ms": 148890,
+          "capture_latency_mean_ms": 149798.7,
+          "capture_latency_p95_ms": 269340,
+          "capture_latency_max_ms": 274351,
+          "capture_latency_stdev_ms": 82953.4
+        },
+        "Register.ca Inc.": {
+          "domain_count": 10,
+          "market_share_pct": 3.27,
+          "capture_latency_min_ms": 41,
+          "capture_latency_median_ms": 4985,
+          "capture_latency_mean_ms": 4633.4,
+          "capture_latency_p95_ms": 15301,
+          "capture_latency_max_ms": 15301,
+          "capture_latency_stdev_ms": 5065.3
+        },
+        "MyID.ca INC.": {
+          "domain_count": 9,
+          "market_share_pct": 2.94,
+          "capture_latency_min_ms": 71,
+          "capture_latency_median_ms": 1482,
+          "capture_latency_mean_ms": 2601.6,
+          "capture_latency_p95_ms": 6322,
+          "capture_latency_max_ms": 6322,
+          "capture_latency_stdev_ms": 2652.9
+        },
+        "8648255 CANADA LTD. O/A Dynadot LLC": {
+          "domain_count": 4,
+          "market_share_pct": 1.31,
+          "capture_latency_min_ms": 12491,
+          "capture_latency_median_ms": 63132,
+          "capture_latency_mean_ms": 61544.8,
+          "capture_latency_p95_ms": 107424,
+          "capture_latency_max_ms": 107424,
+          "capture_latency_stdev_ms": 45212.5
+        },
+        "DomainePlus.com (3612040 CANADA inc.)": {
+          "domain_count": 1,
+          "market_share_pct": 0.33,
+          "capture_latency_min_ms": 110,
+          "capture_latency_median_ms": 110,
+          "capture_latency_mean_ms": 110,
+          "capture_latency_p95_ms": 110,
+          "capture_latency_max_ms": 110,
+          "capture_latency_stdev_ms": 0
+        },
+        "Namespro Solutions Inc.": {
+          "domain_count": 1,
+          "market_share_pct": 0.33,
+          "capture_latency_min_ms": 113,
+          "capture_latency_median_ms": 113,
+          "capture_latency_mean_ms": 113,
+          "capture_latency_p95_ms": 113,
+          "capture_latency_max_ms": 113,
+          "capture_latency_stdev_ms": 0
+        }
+      },
+      "timing_distribution_by_second": {
+        "0": 25,
+        "1": 5,
+        "4": 6,
+        "5": 21,
+        "6": 19,
+        "7": 9,
+        "8": 1,
+        "9": 1,
+        "10": 13,
+        "11": 21,
+        "12": 12,
+        "13": 4,
+        "14": 3,
+        "15": 15,
+        "16": 22,
+        "17": 9,
+        "18": 6,
+        "19": 4,
+        "20": 21,
+        "21": 11,
+        "22": 3,
+        "23": 2,
+        "25": 13,
+        "26": 4,
+        "27": 1,
+        "30": 13,
+        "31": 4,
+        "32": 1,
+        "33": 1,
+        "34": 1,
+        "35": 9,
+        "43": 1,
+        "48": 1,
+        "53": 1,
+        "78": 1,
+        "91": 1,
+        "93": 1,
+        "103": 1,
+        "107": 1,
+        "113": 1,
+        "118": 1,
+        "133": 1,
+        "143": 1,
+        "148": 1,
+        "163": 1,
+        "173": 1,
+        "184": 1,
+        "189": 1,
+        "194": 1,
+        "219": 1,
+        "224": 1,
+        "229": 1,
+        "249": 1,
+        "259": 1,
+        "264": 1,
+        "269": 1,
+        "274": 1
       }
     }
   }
