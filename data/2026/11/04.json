@@ -1,0 +1,1356 @@
+{
+  "domains": [
+    {
+      "domainName": "spectrum.ca",
+      "registrarName": "Grape Inc.",
+      "timestamp": "2026-11-04T19:00:00.019Z"
+    },
+    {
+      "domainName": "reconciliationcanada.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:00.019Z"
+    },
+    {
+      "domainName": "vitadaily.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:00.029Z"
+    },
+    {
+      "domainName": "lighthouselabs.ca",
+      "registrarName": "MyID.ca INC.",
+      "timestamp": "2026-11-04T19:00:00.031Z"
+    },
+    {
+      "domainName": "cloak.ca",
+      "registrarName": "Register.ca Inc.",
+      "timestamp": "2026-11-04T19:00:00.032Z"
+    },
+    {
+      "domainName": "forbiddenspirits.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:00.032Z"
+    },
+    {
+      "domainName": "4villageschc.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:00.034Z"
+    },
+    {
+      "domainName": "learnnowbc.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:00.034Z"
+    },
+    {
+      "domainName": "owok.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:00.038Z"
+    },
+    {
+      "domainName": "corunna.ca",
+      "registrarName": "Register.ca Inc.",
+      "timestamp": "2026-11-04T19:00:00.039Z"
+    },
+    {
+      "domainName": "lachaufferie.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:00.046Z"
+    },
+    {
+      "domainName": "acsaorg.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:00.131Z"
+    },
+    {
+      "domainName": "recyclingcanada.ca",
+      "registrarName": "Register.ca Inc.",
+      "timestamp": "2026-11-04T19:00:00.132Z"
+    },
+    {
+      "domainName": "bluechair.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:00.142Z"
+    },
+    {
+      "domainName": "thesaylorhousecafe.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:00.377Z"
+    },
+    {
+      "domainName": "snowyvillages.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:00.382Z"
+    },
+    {
+      "domainName": "probiotic.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:00.395Z"
+    },
+    {
+      "domainName": "avivimmigrantkitchen.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:00.409Z"
+    },
+    {
+      "domainName": "stanleysgrill.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:00.409Z"
+    },
+    {
+      "domainName": "holyfamilywhitby.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:00.410Z"
+    },
+    {
+      "domainName": "e-juice.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:00.415Z"
+    },
+    {
+      "domainName": "venuerentals.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:01.235Z"
+    },
+    {
+      "domainName": "clubfitt.ca",
+      "registrarName": "8648255 CANADA LTD. O/A Dynadot LLC",
+      "timestamp": "2026-11-04T19:00:01.339Z"
+    },
+    {
+      "domainName": "nxl.ca",
+      "registrarName": "easyDNS Technologies Inc.",
+      "timestamp": "2026-11-04T19:00:01.359Z"
+    },
+    {
+      "domainName": "aev.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:01.409Z"
+    },
+    {
+      "domainName": "marineinsurance.ca",
+      "registrarName": "DomainePlus.com (3612040 CANADA inc.)",
+      "timestamp": "2026-11-04T19:00:01.601Z"
+    },
+    {
+      "domainName": "realpm.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:01.646Z"
+    },
+    {
+      "domainName": "boutiquesphere.ca",
+      "registrarName": "MyID.ca INC.",
+      "timestamp": "2026-11-04T19:00:04.876Z"
+    },
+    {
+      "domainName": "cnmag.ca",
+      "registrarName": "MyID.ca INC.",
+      "timestamp": "2026-11-04T19:00:04.903Z"
+    },
+    {
+      "domainName": "birdwatch.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:00:04.905Z"
+    },
+    {
+      "domainName": "dukecollege.ca",
+      "registrarName": "MyID.ca INC.",
+      "timestamp": "2026-11-04T19:00:04.925Z"
+    },
+    {
+      "domainName": "chairejlb.ca",
+      "registrarName": "MyID.ca INC.",
+      "timestamp": "2026-11-04T19:00:04.946Z"
+    },
+    {
+      "domainName": "dvat.ca",
+      "registrarName": "Register.ca Inc.",
+      "timestamp": "2026-11-04T19:00:04.949Z"
+    },
+    {
+      "domainName": "stanz.ca",
+      "registrarName": "Register.ca Inc.",
+      "timestamp": "2026-11-04T19:00:04.980Z"
+    },
+    {
+      "domainName": "torontomusicscene.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:04.982Z"
+    },
+    {
+      "domainName": "credithelp.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:04.991Z"
+    },
+    {
+      "domainName": "globalbusiness.ca",
+      "registrarName": "Grape Inc.",
+      "timestamp": "2026-11-04T19:00:04.999Z"
+    },
+    {
+      "domainName": "monteith.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:05.020Z"
+    },
+    {
+      "domainName": "adal.ca",
+      "registrarName": "MyID.ca INC.",
+      "timestamp": "2026-11-04T19:00:05.022Z"
+    },
+    {
+      "domainName": "bjia.ca",
+      "registrarName": "Register.ca Inc.",
+      "timestamp": "2026-11-04T19:00:05.037Z"
+    },
+    {
+      "domainName": "voss.ca",
+      "registrarName": "Register.ca Inc.",
+      "timestamp": "2026-11-04T19:00:05.039Z"
+    },
+    {
+      "domainName": "polonia.ca",
+      "registrarName": "Register.ca Inc.",
+      "timestamp": "2026-11-04T19:00:05.039Z"
+    },
+    {
+      "domainName": "dougsamu.ca",
+      "registrarName": "Register.ca Inc.",
+      "timestamp": "2026-11-04T19:00:05.039Z"
+    },
+    {
+      "domainName": "arfp.ca",
+      "registrarName": "MyID.ca INC.",
+      "timestamp": "2026-11-04T19:00:05.040Z"
+    },
+    {
+      "domainName": "whitehern.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:05.054Z"
+    },
+    {
+      "domainName": "hostingforum.ca",
+      "registrarName": "Register.ca Inc.",
+      "timestamp": "2026-11-04T19:00:05.066Z"
+    },
+    {
+      "domainName": "nylons.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:05.067Z"
+    },
+    {
+      "domainName": "ventilators.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:05.068Z"
+    },
+    {
+      "domainName": "palettemagazine.ca",
+      "registrarName": "Register.ca Inc.",
+      "timestamp": "2026-11-04T19:00:05.068Z"
+    },
+    {
+      "domainName": "ljmtower.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:05.073Z"
+    },
+    {
+      "domainName": "thebedouinsrestaurant.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:05.074Z"
+    },
+    {
+      "domainName": "justcasino.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:05.113Z"
+    },
+    {
+      "domainName": "bistrodupont.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:05.126Z"
+    },
+    {
+      "domainName": "artisanbakery.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:05.162Z"
+    },
+    {
+      "domainName": "adasys.ca",
+      "registrarName": "MyID.ca INC.",
+      "timestamp": "2026-11-04T19:00:05.246Z"
+    },
+    {
+      "domainName": "canadareflection.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:05.279Z"
+    },
+    {
+      "domainName": "shopblue.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:05.280Z"
+    },
+    {
+      "domainName": "tenerife.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:05.348Z"
+    },
+    {
+      "domainName": "taster.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:05.350Z"
+    },
+    {
+      "domainName": "ktsglobal.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:05.398Z"
+    },
+    {
+      "domainName": "serajimmigration.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:05.414Z"
+    },
+    {
+      "domainName": "femalerejuvenationclinic.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:05.429Z"
+    },
+    {
+      "domainName": "copperroad.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:05.433Z"
+    },
+    {
+      "domainName": "gastownbusinesscollege.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:05.754Z"
+    },
+    {
+      "domainName": "gennex.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:05.806Z"
+    },
+    {
+      "domainName": "esportscentral.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:05.873Z"
+    },
+    {
+      "domainName": "ancastertravelclinic.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:05.911Z"
+    },
+    {
+      "domainName": "amarok.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:05.934Z"
+    },
+    {
+      "domainName": "jockstrap.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:05.948Z"
+    },
+    {
+      "domainName": "procuro.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:06.056Z"
+    },
+    {
+      "domainName": "laserprinting.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.089Z"
+    },
+    {
+      "domainName": "drawers.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.089Z"
+    },
+    {
+      "domainName": "cathaywagantall.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.090Z"
+    },
+    {
+      "domainName": "sushihouses.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:06.095Z"
+    },
+    {
+      "domainName": "parentingalliance.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:06.098Z"
+    },
+    {
+      "domainName": "iaba.ca",
+      "registrarName": "MyID.ca INC.",
+      "timestamp": "2026-11-04T19:00:06.123Z"
+    },
+    {
+      "domainName": "cafecognac.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.124Z"
+    },
+    {
+      "domainName": "ryanfoerster.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:06.125Z"
+    },
+    {
+      "domainName": "trottierenergyfutures.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:06.144Z"
+    },
+    {
+      "domainName": "fringecoffee.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.155Z"
+    },
+    {
+      "domainName": "lakeshorehomes.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:06.165Z"
+    },
+    {
+      "domainName": "latableduchef.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:06.172Z"
+    },
+    {
+      "domainName": "xpros.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.215Z"
+    },
+    {
+      "domainName": "adonispuentes.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.221Z"
+    },
+    {
+      "domainName": "isolation2freres.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.248Z"
+    },
+    {
+      "domainName": "gatewaytoalberta.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.253Z"
+    },
+    {
+      "domainName": "grandharmonyspa.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.294Z"
+    },
+    {
+      "domainName": "kwgrabbapizza.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.296Z"
+    },
+    {
+      "domainName": "downtownvillage.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.317Z"
+    },
+    {
+      "domainName": "billdidit.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.365Z"
+    },
+    {
+      "domainName": "lonergan-lri.ca",
+      "registrarName": "MyID.ca INC.",
+      "timestamp": "2026-11-04T19:00:06.565Z"
+    },
+    {
+      "domainName": "deflore.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.588Z"
+    },
+    {
+      "domainName": "coffee-maker.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:06.612Z"
+    },
+    {
+      "domainName": "northernattraction.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.620Z"
+    },
+    {
+      "domainName": "westcoastoffshore.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.626Z"
+    },
+    {
+      "domainName": "okanaganathletics.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.637Z"
+    },
+    {
+      "domainName": "middleofeverywhere.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.790Z"
+    },
+    {
+      "domainName": "uncorkedwinetours.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.815Z"
+    },
+    {
+      "domainName": "studiobalado.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.867Z"
+    },
+    {
+      "domainName": "cranberryfarm.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:06.986Z"
+    },
+    {
+      "domainName": "liledutaco.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:07.032Z"
+    },
+    {
+      "domainName": "sugarburst.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:07.033Z"
+    },
+    {
+      "domainName": "ambiances.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:07.040Z"
+    },
+    {
+      "domainName": "back-bumper.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:07.072Z"
+    },
+    {
+      "domainName": "cannabisdrink.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:07.506Z"
+    },
+    {
+      "domainName": "rednecks.ca",
+      "registrarName": "DomainePlus.com (3612040 CANADA inc.)",
+      "timestamp": "2026-11-04T19:00:07.673Z"
+    },
+    {
+      "domainName": "gasummit.ca",
+      "registrarName": "MyID.ca INC.",
+      "timestamp": "2026-11-04T19:00:09.891Z"
+    },
+    {
+      "domainName": "ucalgarybgsa.ca",
+      "registrarName": "Register.ca Inc.",
+      "timestamp": "2026-11-04T19:00:09.965Z"
+    },
+    {
+      "domainName": "linkage.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:09.995Z"
+    },
+    {
+      "domainName": "nihariexpress.ca",
+      "registrarName": "Grape Inc.",
+      "timestamp": "2026-11-04T19:00:10.013Z"
+    },
+    {
+      "domainName": "learn2.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:10.016Z"
+    },
+    {
+      "domainName": "skycore.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:10.028Z"
+    },
+    {
+      "domainName": "elegancestudioyycbarbershop.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:10.057Z"
+    },
+    {
+      "domainName": "tripolitaniacafe.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:10.073Z"
+    },
+    {
+      "domainName": "rankr.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:10.146Z"
+    },
+    {
+      "domainName": "smartbackup.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:10.256Z"
+    },
+    {
+      "domainName": "runawayltd.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:10.291Z"
+    },
+    {
+      "domainName": "vjv.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:10.443Z"
+    },
+    {
+      "domainName": "historienvirtuel.ca",
+      "registrarName": "MyID.ca INC.",
+      "timestamp": "2026-11-04T19:00:10.698Z"
+    },
+    {
+      "domainName": "colonelmustards.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:10.699Z"
+    },
+    {
+      "domainName": "modernadesigns.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:10.700Z"
+    },
+    {
+      "domainName": "paddnorth.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:10.701Z"
+    },
+    {
+      "domainName": "votethemallout.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:10.750Z"
+    },
+    {
+      "domainName": "seniorsguide.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:10.758Z"
+    },
+    {
+      "domainName": "nwom.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:10.758Z"
+    },
+    {
+      "domainName": "vidalcondo.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:10.812Z"
+    },
+    {
+      "domainName": "vetfinder.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:10.819Z"
+    },
+    {
+      "domainName": "snow2go.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:10.820Z"
+    },
+    {
+      "domainName": "killc51.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:10.852Z"
+    },
+    {
+      "domainName": "onthewall.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:10.860Z"
+    },
+    {
+      "domainName": "chirestaurant.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:10.891Z"
+    },
+    {
+      "domainName": "jettickets.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:11.030Z"
+    },
+    {
+      "domainName": "frontliner.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:11.032Z"
+    },
+    {
+      "domainName": "northernsteamcleaners.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:11.105Z"
+    },
+    {
+      "domainName": "lgpro.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:11.106Z"
+    },
+    {
+      "domainName": "masterline.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:11.612Z"
+    },
+    {
+      "domainName": "boiteasurprises.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:11.619Z"
+    },
+    {
+      "domainName": "ozanna.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:11.619Z"
+    },
+    {
+      "domainName": "callus.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:11.621Z"
+    },
+    {
+      "domainName": "grandvilla.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:11.621Z"
+    },
+    {
+      "domainName": "bestplacestoworkexpo.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:11.636Z"
+    },
+    {
+      "domainName": "bearlakeresort.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:11.641Z"
+    },
+    {
+      "domainName": "countrycreations.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:11.650Z"
+    },
+    {
+      "domainName": "tankheaters.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:11.807Z"
+    },
+    {
+      "domainName": "pinevalleygolfcc.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:11.830Z"
+    },
+    {
+      "domainName": "ribms.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:12.050Z"
+    },
+    {
+      "domainName": "apexpeptides.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:12.091Z"
+    },
+    {
+      "domainName": "comfortcountry.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:12.383Z"
+    },
+    {
+      "domainName": "teammtl.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:12.400Z"
+    },
+    {
+      "domainName": "2740janestreet.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.109Z"
+    },
+    {
+      "domainName": "localtorontomovers.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.122Z"
+    },
+    {
+      "domainName": "chemscience.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:13.132Z"
+    },
+    {
+      "domainName": "chuanbbq.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.135Z"
+    },
+    {
+      "domainName": "royalcustomcabinets.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.139Z"
+    },
+    {
+      "domainName": "norfolksports.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.154Z"
+    },
+    {
+      "domainName": "englishteacher.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.154Z"
+    },
+    {
+      "domainName": "supasmartloans.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:13.156Z"
+    },
+    {
+      "domainName": "automatically.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.171Z"
+    },
+    {
+      "domainName": "gigisspicecorner.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.174Z"
+    },
+    {
+      "domainName": "universalabs.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.175Z"
+    },
+    {
+      "domainName": "layette.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:13.190Z"
+    },
+    {
+      "domainName": "quanu.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:13.282Z"
+    },
+    {
+      "domainName": "turn1simracing.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.393Z"
+    },
+    {
+      "domainName": "pizzaexpressondg.ca",
+      "registrarName": "8648255 CANADA LTD. O/A Dynadot LLC",
+      "timestamp": "2026-11-04T19:00:13.464Z"
+    },
+    {
+      "domainName": "papadavespizza.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.534Z"
+    },
+    {
+      "domainName": "kiteccrusader.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.596Z"
+    },
+    {
+      "domainName": "cathaywagantallmp.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.596Z"
+    },
+    {
+      "domainName": "steeledge.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:13.610Z"
+    },
+    {
+      "domainName": "introverts.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.632Z"
+    },
+    {
+      "domainName": "ironheartstudio.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.651Z"
+    },
+    {
+      "domainName": "wayslimandskin.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.657Z"
+    },
+    {
+      "domainName": "pestpro.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:13.661Z"
+    },
+    {
+      "domainName": "villagedebertrand.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.682Z"
+    },
+    {
+      "domainName": "thenewsie.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.685Z"
+    },
+    {
+      "domainName": "esthetique-automobile.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.709Z"
+    },
+    {
+      "domainName": "istanbulkebab.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.740Z"
+    },
+    {
+      "domainName": "boogiedown.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.760Z"
+    },
+    {
+      "domainName": "torontoticket.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:13.843Z"
+    },
+    {
+      "domainName": "comparecar.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:14.070Z"
+    },
+    {
+      "domainName": "syntheticintelligence.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:14.617Z"
+    },
+    {
+      "domainName": "norpenfrc.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:14.633Z"
+    },
+    {
+      "domainName": "devenir.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:15.004Z"
+    },
+    {
+      "domainName": "txi.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:15.053Z"
+    },
+    {
+      "domainName": "raymontsberries.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:15.080Z"
+    },
+    {
+      "domainName": "propertylens.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:15.088Z"
+    },
+    {
+      "domainName": "aioptimize.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:15.163Z"
+    },
+    {
+      "domainName": "korosgames.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:15.277Z"
+    },
+    {
+      "domainName": "leyla.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:15.410Z"
+    },
+    {
+      "domainName": "bellasglamourstudio.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:15.459Z"
+    },
+    {
+      "domainName": "darkstarts.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:15.541Z"
+    },
+    {
+      "domainName": "abaddictiontx.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:15.715Z"
+    },
+    {
+      "domainName": "utx.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:00:15.731Z"
+    },
+    {
+      "domainName": "cravinlounge.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:15.773Z"
+    },
+    {
+      "domainName": "fireandfrost.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:15.829Z"
+    },
+    {
+      "domainName": "cielenfete.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:15.830Z"
+    },
+    {
+      "domainName": "pashbrar.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:15.835Z"
+    },
+    {
+      "domainName": "pizzakingpasta.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:15.867Z"
+    },
+    {
+      "domainName": "theshops.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:15.910Z"
+    },
+    {
+      "domainName": "quantumedge.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:15.942Z"
+    },
+    {
+      "domainName": "dexters.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:15.960Z"
+    },
+    {
+      "domainName": "drugtreatment.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:16.040Z"
+    },
+    {
+      "domainName": "urocare.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:16.046Z"
+    },
+    {
+      "domainName": "fastleaf.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:16.110Z"
+    },
+    {
+      "domainName": "goldenthai.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:16.118Z"
+    },
+    {
+      "domainName": "faleyrestaurant.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:16.122Z"
+    },
+    {
+      "domainName": "unitedmandingocanada.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:16.470Z"
+    },
+    {
+      "domainName": "canadabowls.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:16.623Z"
+    },
+    {
+      "domainName": "probussidneybc.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:16.630Z"
+    },
+    {
+      "domainName": "theboho.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:16.631Z"
+    },
+    {
+      "domainName": "opticalillusionsinc.ca",
+      "registrarName": "WHC Online Solutions Inc.",
+      "timestamp": "2026-11-04T19:00:16.637Z"
+    },
+    {
+      "domainName": "ecoflora.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:16.689Z"
+    },
+    {
+      "domainName": "indocanadian.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:17.175Z"
+    },
+    {
+      "domainName": "webnys.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:18.139Z"
+    },
+    {
+      "domainName": "logwell.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:18.165Z"
+    },
+    {
+      "domainName": "bnccs.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:18.198Z"
+    },
+    {
+      "domainName": "thisismade.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:18.291Z"
+    },
+    {
+      "domainName": "wecare-app.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:18.620Z"
+    },
+    {
+      "domainName": "hayestimber.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:18.671Z"
+    },
+    {
+      "domainName": "sac2021.ca",
+      "registrarName": "8648255 CANADA LTD. O/A Dynadot LLC",
+      "timestamp": "2026-11-04T19:00:19.322Z"
+    },
+    {
+      "domainName": "secordcrossing.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:20.013Z"
+    },
+    {
+      "domainName": "canadafinder.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:20.521Z"
+    },
+    {
+      "domainName": "cannyyc.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:20.552Z"
+    },
+    {
+      "domainName": "beaddazzled.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:20.838Z"
+    },
+    {
+      "domainName": "red-ladder.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:20.951Z"
+    },
+    {
+      "domainName": "eoshl.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:20.968Z"
+    },
+    {
+      "domainName": "freshpressed.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:21.049Z"
+    },
+    {
+      "domainName": "lillis.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:21.128Z"
+    },
+    {
+      "domainName": "spacerabbit.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:21.481Z"
+    },
+    {
+      "domainName": "10squadron.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:21.633Z"
+    },
+    {
+      "domainName": "rentless.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:21.637Z"
+    },
+    {
+      "domainName": "nedsac.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:21.698Z"
+    },
+    {
+      "domainName": "gocjobs.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:21.775Z"
+    },
+    {
+      "domainName": "chartreusemoose.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:22.186Z"
+    },
+    {
+      "domainName": "faboutique.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:23.157Z"
+    },
+    {
+      "domainName": "sidebizstudio.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:23.172Z"
+    },
+    {
+      "domainName": "locodeal.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:23.206Z"
+    },
+    {
+      "domainName": "atozliquidation.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:23.302Z"
+    },
+    {
+      "domainName": "newedgegroup.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:23.630Z"
+    },
+    {
+      "domainName": "waymarklaw.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:23.680Z"
+    },
+    {
+      "domainName": "lagrandeequation.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:25.022Z"
+    },
+    {
+      "domainName": "co2delivery.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:25.529Z"
+    },
+    {
+      "domainName": "subi.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:25.565Z"
+    },
+    {
+      "domainName": "datasolutions.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:00:25.797Z"
+    },
+    {
+      "domainName": "rivoq.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:25.848Z"
+    },
+    {
+      "domainName": "practicenl.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:25.960Z"
+    },
+    {
+      "domainName": "whimworks.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:25.976Z"
+    },
+    {
+      "domainName": "heartofthesummit.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:26.058Z"
+    },
+    {
+      "domainName": "foreverchristmas.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:26.137Z"
+    },
+    {
+      "domainName": "thelittlebird.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:26.565Z"
+    },
+    {
+      "domainName": "horrormovies.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:26.642Z"
+    },
+    {
+      "domainName": "canadianregtechawards.ca",
+      "registrarName": "BareMetal.com inc",
+      "timestamp": "2026-11-04T19:00:26.644Z"
+    },
+    {
+      "domainName": "rivana.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:00:30.837Z"
+    },
+    {
+      "domainName": "lukebott.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:00:35.872Z"
+    },
+    {
+      "domainName": "fullbody.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:00:40.904Z"
+    },
+    {
+      "domainName": "newlane.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:00:45.924Z"
+    },
+    {
+      "domainName": "chocoberry.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:00:50.943Z"
+    },
+    {
+      "domainName": "personalassistants.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:01:00.981Z"
+    },
+    {
+      "domainName": "dreamscapesevents.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:01:11.025Z"
+    },
+    {
+      "domainName": "atowns.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:01:36.104Z"
+    },
+    {
+      "domainName": "carscrapremoval.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:02:01.193Z"
+    },
+    {
+      "domainName": "chatsbengal.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:02:06.215Z"
+    },
+    {
+      "domainName": "cloverwood.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:02:11.235Z"
+    },
+    {
+      "domainName": "cardetailingshop.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:02:26.282Z"
+    },
+    {
+      "domainName": "cannabuzzinc.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:02:41.336Z"
+    },
+    {
+      "domainName": "cardinalhomes.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:02:51.380Z"
+    },
+    {
+      "domainName": "fenelonfallsrealestate.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:03:16.485Z"
+    },
+    {
+      "domainName": "gordosrent-all.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:03:21.507Z"
+    },
+    {
+      "domainName": "eliteheatingoil.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:03:31.550Z"
+    },
+    {
+      "domainName": "geargear.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:03:36.572Z"
+    },
+    {
+      "domainName": "boldr.ca",
+      "registrarName": "Webnames.ca Inc.",
+      "timestamp": "2026-11-04T19:08:37.559Z"
+    }
+  ],
+  "numberOfDomainNames": 270,
+  "releaseDate": "2026-11-04T19:00:00.000Z"
+}
